@@ -1,0 +1,1 @@
+A Model-Based State-Space approach was used to design a high-precision torque control system. By regulating motor voltage and incorporating an Integral Controller, the system achieved stable and highly accurate torque regulation, validated via Simulink model where the error converged to almost zero.
